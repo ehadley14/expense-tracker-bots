@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "date": "2026-03-03 07:48",
+    "category": "Misc",
+    "description": "Earnest deposit",
+    "amount": 1000.0,
+    "paid_by": "Ed",
+    "receipt": null
+  },
+  {
+    "id": 2,
+    "date": "2026-03-03 07:49",
+    "category": "HVAC",
+    "description": "HVAC duct replacement",
+    "amount": 4500.0,
+    "paid_by": "Ed",
+    "receipt": null
+  },
+  {
+    "id": 3,
+    "date": "2026-03-10 09:08",
+    "category": "Materials",
+    "description": "Back door",
+    "amount": 711.18,
+    "paid_by": "Ed",
+    "receipt": null
+  },
+  {
+    "id": 4,
+    "date": "2026-03-10 09:11",
+    "category": "Materials",
+    "description": "Plumbing materials",
+    "amount": 238.76,
+    "paid_by": "Ed",
+    "receipt": null
+  },
+  {
+    "id": 5,
+    "date": "2026-03-10 09:12",
+    "category": "Materials",
+    "description": "Front door",
+    "amount": 546.56,
+    "paid_by": "Ed",
+    "receipt": null
+  },
+  {
+    "id": 6,
+    "date": "2026-03-10 09:13",
+    "category": "Materials",
+    "description": "Door lock and water/ice for gable roof",
+    "amount": 229.93,
+    "paid_by": "Ed",
+    "receipt": null
+  },
+  {
+    "id": 7,
+    "date": "2026-03-10 09:16",
+    "category": "Materials",
+    "description": "Front gable porch materials",
+    "amount": 397.88,
+    "paid_by": "Ed",
+    "receipt": null
+  },
+  {
+    "id": 8,
+    "date": "2026-03-11 12:00",
+    "category": "Labor",
+    "description": "Gambino Ochoa - Demolition",
+    "amount": 1000.0,
+    "paid_by": "Ed",
+    "receipt": null
+  },
+  {
+    "id": 9,
+    "date": "2026-03-11 12:00",
+    "category": "Labor",
+    "description": "Anthony Liberato - Framing Labor",
+    "amount": 2000.0,
+    "paid_by": "Ed",
+    "receipt": null
+  },
+  {
+    "id": 10,
+    "date": "2026-03-12 17:48",
+    "category": "Materials",
+    "description": "Porch materials",
+    "amount": 1298.52,
+    "paid_by": "Ed",
+    "receipt": "/home/ubuntu/expense_bots/nations/data/receipts/receipt_10.jpg"
+  },
+  {
+    "id": 11,
+    "date": "2026-03-12 17:48",
+    "category": "Materials",
+    "description": "Cabinet deposit",
+    "amount": 5099.0,
+    "paid_by": "Thomas",
+    "receipt": null
+  },
+  {
+    "id": 12,
+    "date": "2026-03-12 17:51",
+    "category": "Plumbing",
+    "description": "Plumbing labor",
+    "amount": 3000.0,
+    "paid_by": "Ed",
+    "receipt": "/home/ubuntu/expense_bots/nations/data/receipts/receipt_12.jpg"
+  }
+]
