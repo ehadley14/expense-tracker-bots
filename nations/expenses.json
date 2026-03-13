@@ -115,5 +115,14 @@
     "amount": 3780.0,
     "paid_by": "Ed",
     "receipt": null
+  },
+  {
+    "id": 14,
+    "date": "2026-03-13 15:23",
+    "category": "Materials",
+    "description": "Siding materials",
+    "amount": 3619.0,
+    "paid_by": "Ed",
+    "receipt": "/home/ubuntu/expense_bots/nations/data/receipts/receipt_14.jpg"
   }
 ]
