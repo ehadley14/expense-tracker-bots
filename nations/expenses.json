@@ -106,5 +106,14 @@
     "amount": 3000.0,
     "paid_by": "Ed",
     "receipt": "/home/ubuntu/expense_bots/nations/data/receipts/receipt_12.jpg"
+  },
+  {
+    "id": 13,
+    "date": "2026-03-13 15:21",
+    "category": "Electrical",
+    "description": "Ochoa rough in deposit",
+    "amount": 3780.0,
+    "paid_by": "Ed",
+    "receipt": null
   }
 ]
