@@ -16,5 +16,14 @@
     "amount": 2500.0,
     "paid_by": "Ed",
     "receipt": null
+  },
+  {
+    "id": 3,
+    "date": "2026-03-15 21:28",
+    "category": "Misc",
+    "description": "Total loan plus closing costs",
+    "amount": 362016.09,
+    "paid_by": "Ed",
+    "receipt": null
   }
 ]
