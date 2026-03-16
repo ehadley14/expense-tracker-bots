@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1,
+    "date": "2026-03-15 21:27",
+    "category": "Misc",
+    "description": "Dumpster",
+    "amount": 675.0,
+    "paid_by": "Ed",
+    "receipt": null
+  }
+]
