@@ -25,5 +25,14 @@
     "amount": 362016.09,
     "paid_by": "Ed",
     "receipt": null
+  },
+  {
+    "id": 4,
+    "date": "2026-03-15 21:38",
+    "category": "Electrical",
+    "description": "Lights from Coffman home decor",
+    "amount": 2090.67,
+    "paid_by": "Ed",
+    "receipt": null
   }
 ]
