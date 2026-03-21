@@ -43,5 +43,14 @@
     "amount": 4000.0,
     "paid_by": "Ed",
     "receipt": null
+  },
+  {
+    "id": 6,
+    "date": "2026-03-21 03:10",
+    "category": "Demolition",
+    "description": "Vtk dumpster #2",
+    "amount": 475.0,
+    "paid_by": "Ed",
+    "receipt": null
   }
 ]
