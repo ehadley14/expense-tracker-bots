@@ -34,5 +34,14 @@
     "amount": 2090.67,
     "paid_by": "Ed",
     "receipt": null
+  },
+  {
+    "id": 5,
+    "date": "2026-03-21 03:08",
+    "category": "Labor",
+    "description": "Ochoa balance",
+    "amount": 4000.0,
+    "paid_by": "Ed",
+    "receipt": null
   }
 ]
